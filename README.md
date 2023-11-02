@@ -1,4 +1,4 @@
-Welcom to the HiAudio platform repository. 
+Welcome to the HiAudio platform repository. 
 
 The code will be made available soon. 
 
